@@ -13,7 +13,7 @@ are added to the website. The website is also responsive to different viewports 
 
 ## Video
 
-Check out a video demo here! https://youtu.be/NtIQiNawZ4U 
+Check out a video demo here! https://youtu.be/qkPGWat0uFc
 
 ## Tech Stack
 
